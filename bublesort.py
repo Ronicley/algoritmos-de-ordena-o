@@ -4,7 +4,7 @@ import psutil
 
 arq = open('100milNum.csv', 'r')
 final = open('100milNumEstatisBubbleSortMelhoria1.txt', 'w')
-
+""" Testando o GitKraken"""
 
 linhas = arq.read()
 linhas = linhas.split(';')
